@@ -1,6 +1,7 @@
 {
-  "name": "default.css",
-  "version": "1.0.0",
+  "name": "@entrptaher/default-css",
+  "version": "1.0.1",
   "main": "default.css",
-  "license": "LICENSE"
+  "license": "LICENSE",
+  "private": false
 }
